@@ -7,7 +7,7 @@ Aspiring Backend Engineer with a strong interest in cloud infrastructure and web
 
 ## Featured Projects | 主な開発プロジェクト
 
-### [Wasemeshi](https://github.com/kotoshi8-star/v0-Wasemeshi_mvp)
+### [Wasemeshi](https://github.com/tsuzumi35/Wasemeshi)
 *A restaurant discovery web app designed for students around Waseda University.*
 
 **Tech Stack:** Next.js / Firebase / Google Maps API / Tailwind CSS / Google Apps Script  
