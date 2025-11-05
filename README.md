@@ -25,7 +25,7 @@ GASを通じたデータ連携を自動化。現在はUI/UXの改善と検索最
 
 ---
 
-### [Rubyiin Salesforce Integration Pipeline](https://github.com/rubyin-common/Salesforce)
+### Rubyin Data Integration Project
 *A data integration pipeline linking Google Forms → Supabase → Salesforce.*
 
 **Tech Stack:** Google Apps Script / Python (FastAPI) / Supabase / Salesforce API  
