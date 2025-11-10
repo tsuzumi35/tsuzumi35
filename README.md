@@ -10,6 +10,8 @@ Aspiring Backend Engineer with a strong interest in cloud infrastructure and web
 ### [Wasemeshi](https://github.com/tsuzumi35/Wasemeshi)
 *A restaurant discovery web app designed for students around Waseda University.*
 
+**[🔗 アプリケーションを開く](https://v0-wasemeshi-mvp-hxtg.vercel.app)**
+
 **Tech Stack:** Next.js / Firebase / Google Maps API / Tailwind CSS / Google Apps Script  
 **Role:** Full-stack Developer (Front-end Lead & API Integration)
 
